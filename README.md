@@ -16,4 +16,4 @@ This project is an AI-driven SQL Query Generator that allows users to ask startu
 
 This tool simplifies database querying by converting natural language questions into precise SQL queries, making startup data analysis more accessible. 🚀
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the deployed huggingface model: https://huggingface.co/spaces/kkhushisaid/Startup_Investment_Query_Generator
